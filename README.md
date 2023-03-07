@@ -1,4 +1,4 @@
-Hello, i’m Huy TRUONG a web developer using mainly Typescript, React and Node.
+Hello, i’m Huy TRUONG a web developer.
 
 My main achievement is a free online board game called "Esquive".
 
