@@ -1,4 +1,4 @@
-Hello, i’m Huy TRUONG a web developer.
+Hello my name is Huy TRUONG and I’m a web developer.
 
 I’m currently working on an online board game called [Esquive](https://esquive.belkross.com).
 
