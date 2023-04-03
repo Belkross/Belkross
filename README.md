@@ -1,6 +1,4 @@
-Hello my name is Huy TRUONG and I’m a web developer.
+My name is Huy TRUONG and I’m currently into the web development field.
 
-I’m currently working on an online board game called [Esquive](https://esquive.belkross.com).
-
-I’m open to job offers. Feel free to start a conversation with me at belkross.contact@gmail.com
+I’m open to job offers, feel free to take a look at my [resume](https://cv.belkross.com).
 
